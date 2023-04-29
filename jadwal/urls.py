@@ -2,7 +2,7 @@ from django.urls import path
 from . import views
 
 
-app_name = 'jadwal'
+app_name = 'jadwalImsyakiyahRamadhan_1444H_Sumbawa'
 
 
 urlpatterns = [
